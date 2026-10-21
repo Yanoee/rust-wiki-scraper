@@ -1,0 +1,12 @@
+bin/
+obj/
+publish/
+*.user
+.vs/
+TestResults/
+
+rusthelp_world/
+rusthelp_items/
+catalog.json
+RustWikiScraper.settings.json
+*.csv
